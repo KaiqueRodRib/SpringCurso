@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido apenas para fins de estudo durante um curso de **Spring Boot**.
 
+Objetivo
+
 O objetivo deste projeto é praticar os principais conceitos do Spring Boot, como:
 
 - Criação de APIs REST;
@@ -25,5 +27,7 @@ Tecnologias Utilizadas
 - H2 Database
 - Maven
 - Lombok
+
+Observação
 
 Este repositório possui finalidade exclusivamente educacional e foi criado para acompanhar os estudos e exercícios realizados durante o curso de Spring Boot.
